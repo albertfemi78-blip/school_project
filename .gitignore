@@ -3,6 +3,6 @@ venv/
 **pycache**/
 *.py[cod]
 .env
-staticfiles/
+# staticfiles/
 .idea/
 .vscode/
